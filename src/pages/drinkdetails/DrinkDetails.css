@@ -1,0 +1,25 @@
+.drink-details {
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.drink-name {
+    font-family: Apple Chancery;
+    font-size: 30px;
+}
+
+.drink-details p {
+    font-family: Florence;
+    font-size: 15px;
+}
+
+.ingredients, 
+.instructions {
+    text-decoration: underline;
+}

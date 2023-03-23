@@ -1,0 +1,9 @@
+.not-found {
+    font-family: Florence;
+    font-size: 30px;
+    color: white;
+    
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}

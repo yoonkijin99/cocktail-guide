@@ -1,0 +1,38 @@
+:root {
+    --orange: #ce7c2e;;
+}
+
+.nav-bar {
+    max-width: 1000px;
+    margin: 20px auto 75px auto;
+    display: flex;
+    border-bottom: 1px solid var(--orange);
+    padding-bottom: 0px;
+}
+
+.nav-bar h1 {
+    font-family: Brush Script MT;
+    font-size: 40px;
+    color: white;
+    flex: 1;
+}
+.nav-bar h2 {
+    text-align: right;
+    flex: 1;
+    /* padding-bottom: 0px; */
+    /* line-height: 100px; */
+}
+
+.nav-bar a {
+    font-family: Florence;
+    font-size: 20px;
+    color: var(--orange);
+
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.nav-bar a.active {
+  border-bottom: 1px solid var(--orange);
+}
+

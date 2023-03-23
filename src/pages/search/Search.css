@@ -1,0 +1,48 @@
+:root {
+    --orange: #ce7c2e;;
+    --grey: #8d8d8db6;
+    --grey2: #8d8d8ddb;
+}
+
+.search {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.search p {
+    font-family: Florence;
+    font-size: 30px;
+    color: white;
+}
+.search .search-type {
+    font-size: 20px;
+}
+
+button {
+    font-family: Times New Roman;
+    font-size: 12px;
+    border: 0;
+    padding: 8px;
+    border-radius: 4px;
+    color: white;
+    background: var(--grey);
+    cursor: pointer;
+}
+button:hover {
+    background: var(--grey2);
+}
+
+.search-form {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.search-input {
+    margin-right: 10px;
+}
+.input-instructions {
+    margin-bottom: 125px;
+}
+
+.input-instructions p {
+    font-size: 15px;
+}
