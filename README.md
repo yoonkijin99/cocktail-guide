@@ -1,4 +1,4 @@
-`Project built using Reactjs (javascript, HTML/CSS).
+Project built using Reactjs (javascript, HTML/CSS).
 Tests designed using React Testing Library/Jest.
 API used: https://api-ninjas.com/api/cocktail
 
